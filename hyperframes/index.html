@@ -10,13 +10,17 @@
 #recut{position:relative;width:886px;height:1920px;overflow:hidden;font-family:'DejaVu Sans',sans-serif;color:#FAFAF7}
 #camera{position:absolute;inset:0;transform-origin:50% 43%;will-change:transform}
 #footage{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
-#caption-rail{position:absolute;left:0;right:0;bottom:360px;height:180px;z-index:3}
+#caption-rail{position:absolute;left:0;right:0;bottom:360px;height:180px;z-index:7}
 .caption{position:absolute;inset:0;display:flex;justify-content:center;align-items:center;padding:0 48px;text-align:center}
-.caption .pill{max-width:790px;text-wrap:balance;padding:12px 0;color:#FFFFFF;font-family:'Playfair Display',serif;font-size:48px;font-weight:600;line-height:1.4;letter-spacing:0;text-shadow:0 2px 3px rgba(10,17,24,.85),0 0 2px rgba(10,17,24,.9)}
+.caption .pill{max-width:790px;text-wrap:balance;padding:12px 18px;border-radius:14px;background:rgba(10,17,24,.82);color:#FFFFFF;font-family:'Playfair Display',serif;font-size:48px;font-weight:600;line-height:1.4;letter-spacing:0;text-shadow:0 2px 3px rgba(10,17,24,.85),0 0 2px rgba(10,17,24,.9)}
 .word{display:inline-block;padding:1px 6px;margin:0 1px;border-radius:7px;background:rgba(54,93,125,0)}
 #highlight-rail{position:absolute;left:0;right:0;top:245px;height:240px;z-index:4}
 .highlight{position:absolute;inset:0;display:flex;justify-content:center;align-items:center;padding:0 68px;text-align:center}
-.highlight .pill{max-width:750px;padding:22px 30px;border:1px solid rgba(213,218,222,.25);border-radius:16px;background:rgba(21,26,32,.78);color:#FAFAF7;font-size:50px;font-weight:700;line-height:1.24;letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+.highlight .pill{max-width:750px;padding:22px 30px;border:1px solid rgba(213,218,222,.25);border-radius:16px;background:#365D7D;color:#FAFAF7;font-size:50px;font-weight:700;line-height:1.24;letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+.image-card{position:absolute;inset:0;z-index:5}
+.card-backdrop{position:absolute;inset:0;background:rgba(10,17,24,.32)}
+.card-stage{position:absolute;top:60px;bottom:580px;left:54px;right:54px;display:flex;align-items:center;justify-content:center}
+.card-image{display:block;max-width:100%;max-height:100%;object-fit:contain;box-shadow:0 12px 36px rgba(0,0,0,.2)}
 </style></head><body>
 <div id="recut" data-composition-id="recut" data-start="0" data-duration="138.8" data-width="886" data-height="1920" data-fps="30">
 <div id="camera" data-layout-ignore="true"><video id="footage" class="clip" src="assets/speech-cut-graded.mp4" data-start="0" data-duration="138.8" data-track-index="0" muted playsinline preload="auto"></video></div>
@@ -107,18 +111,17 @@
 <div id="caption-83" class="clip caption" data-start="135.1067" data-duration="1.2000" data-track-index="2"><span class="pill"><span id="word-83-0" class="word" data-word-start="135.1067" data-word-end="135.7067">in</span> <span id="word-83-1" class="word" data-word-start="135.7067" data-word-end="135.8867">der</span> <span id="word-83-2" class="word" data-word-start="135.8867" data-word-end="136.1667">Videobeschreibung.</span></span></div>
 <div id="caption-84" class="clip caption" data-start="136.4800" data-duration="0.9400" data-track-index="2"><span class="pill"><span id="word-84-0" class="word" data-word-start="136.48" data-word-end="136.62">Ich</span> <span id="word-84-1" class="word" data-word-start="136.62" data-word-end="136.84">freue</span> <span id="word-84-2" class="word" data-word-start="136.84" data-word-end="137.02">mich</span> <span id="word-84-3" class="word" data-word-start="137.02" data-word-end="137.28">schon,</span></span></div>
 <div id="caption-85" class="clip caption" data-start="137.6800" data-duration="1.0200" data-track-index="2"><span class="pill"><span id="word-85-0" class="word" data-word-start="137.68" data-word-end="137.78">von</span> <span id="word-85-1" class="word" data-word-start="137.78" data-word-end="137.94">dir</span> <span id="word-85-2" class="word" data-word-start="137.94" data-word-end="138.16">zu</span> <span id="word-85-3" class="word" data-word-start="138.16" data-word-end="138.56">lesen.</span></span></div></div><div id="highlight-rail"><div id="highlight-0" class="clip highlight" data-start="4.8100" data-duration="3.3900" data-track-index="3"><span class="pill">30 Minuten vorher</span></div>
-<div id="highlight-1" class="clip highlight" data-start="9.8700" data-duration="1.1800" data-track-index="3"><span class="pill">Wie reagierst du?</span></div>
-<div id="highlight-2" class="clip highlight" data-start="26.2370" data-duration="2.0000" data-track-index="3"><span class="pill">Dein Deutsch</span></div>
+<div id="highlight-1" class="clip highlight" data-start="9.8700" data-duration="2.4000" data-track-index="3"><span class="pill">Wie reagierst du?</span></div>
+<div id="highlight-2" class="clip highlight" data-start="26.2370" data-duration="2.1500" data-track-index="3"><span class="pill">Dein Deutsch</span></div>
 <div id="highlight-3" class="clip highlight" data-start="28.5370" data-duration="4.0300" data-track-index="3"><span class="pill">Natürlich sprechen</span></div>
 <div id="highlight-4" class="clip highlight" data-start="41.9230" data-duration="3.6000" data-track-index="3"><span class="pill">„Oh, schade!“</span></div>
 <div id="highlight-5" class="clip highlight" data-start="60.2030" data-duration="6.8000" data-track-index="3"><span class="pill">Persönlicher. Emotionaler. Natürlicher.</span></div>
 <div id="highlight-6" class="clip highlight" data-start="75.8370" data-duration="2.6400" data-track-index="3"><span class="pill">„Ich hatte mich schon darauf gefreut.“</span></div>
 <div id="highlight-7" class="clip highlight" data-start="97.0730" data-duration="3.3800" data-track-index="3"><span class="pill">Deine Emotionen</span></div>
-<div id="highlight-8" class="clip highlight" data-start="102.8930" data-duration="2.3800" data-track-index="3"><span class="pill">Mach Deutsch zu deinem Deutsch</span></div>
-<div id="highlight-9" class="clip highlight" data-start="107.8070" data-duration="4.7600" data-track-index="3"><span class="pill">30-Tage-Sprech-Challenge</span></div>
-<div id="highlight-10" class="clip highlight" data-start="123.9670" data-duration="3.3400" data-track-index="3"><span class="pill">Kostenloser Kurzcheck</span></div>
-<div id="highlight-11" class="clip highlight" data-start="127.6270" data-duration="2.3800" data-track-index="3"><span class="pill">8 Fragen · wenige Minuten</span></div>
-<div id="highlight-12" class="clip highlight" data-start="130.0070" data-duration="2.9600" data-track-index="3"><span class="pill">Persönliches Feedback</span></div></div>
+<div id="highlight-8" class="clip highlight" data-start="102.8930" data-duration="2.4000" data-track-index="3"><span class="pill">Mach Deutsch zu deinem Deutsch</span></div>
+<div id="highlight-9" class="clip highlight" data-start="107.8070" data-duration="2.0430" data-track-index="3"><span class="pill">30-Tage-Sprech-Challenge</span></div>
+<div id="highlight-10" class="clip highlight" data-start="123.9670" data-duration="0.8830" data-track-index="3"><span class="pill">Kostenloser Kurzcheck</span></div></div><div id="promo-30-tage" class="clip image-card" data-start="110.0" data-duration="6.0" data-track-index="4"><div class="card-backdrop" data-layout-ignore="true"></div><div class="card-stage"><img class="card-image" src="assets/30-tage-sprechen.jpg" alt="30 Tage für mehr Sicherheit beim Sprechen"></div></div>
+<div id="promo-b1-kurzcheck" class="clip image-card" data-start="125.0" data-duration="6.0" data-track-index="4"><div class="card-backdrop" data-layout-ignore="true"></div><div class="card-stage"><img class="card-image" src="assets/b1-kurzcheck.jpg" alt="Wie sicher ist dein Deutsch auf B1?"></div></div>
 </div>
 <script>
 window.__timelines=window.__timelines||{};
@@ -804,31 +807,48 @@ tl.set("#word-85-2", {backgroundColor:"#365D7D"}, 137.94);
 tl.set("#word-85-2", {backgroundColor:"rgba(54,93,125,0)"}, 138.16);
 tl.set("#word-85-3", {backgroundColor:"#365D7D"}, 138.16);
 tl.set("#word-85-3", {backgroundColor:"rgba(54,93,125,0)"}, 138.56);
-tl.fromTo("#highlight-0 .pill", {opacity:0,y:8}, {opacity:1,y:0,duration:0.14,ease:"power2.out",immediateRender:false}, 4.81);
+tl.fromTo("#highlight-0 .pill", {opacity:0,filter:"blur(8px)"}, {opacity:1,filter:"blur(0px)",duration:0.55,ease:"sine.inOut",immediateRender:false}, 4.81);
+tl.to("#highlight-0 .pill", {opacity:0,filter:"blur(8px)",duration:0.55,ease:"sine.inOut"}, 7.6499999999999995);
 tl.set("#highlight-0", {opacity:0}, 8.2);
-tl.fromTo("#highlight-1 .pill", {opacity:0,y:8}, {opacity:1,y:0,duration:0.14,ease:"power2.out",immediateRender:false}, 9.87);
-tl.set("#highlight-1", {opacity:0}, 11.05);
-tl.fromTo("#highlight-2 .pill", {opacity:0,y:8}, {opacity:1,y:0,duration:0.14,ease:"power2.out",immediateRender:false}, 26.237);
-tl.set("#highlight-2", {opacity:0}, 28.237);
-tl.fromTo("#highlight-3 .pill", {opacity:0,y:8}, {opacity:1,y:0,duration:0.14,ease:"power2.out",immediateRender:false}, 28.537);
+tl.fromTo("#highlight-1 .pill", {opacity:0,filter:"blur(8px)"}, {opacity:1,filter:"blur(0px)",duration:0.55,ease:"sine.inOut",immediateRender:false}, 9.87);
+tl.to("#highlight-1 .pill", {opacity:0,filter:"blur(8px)",duration:0.55,ease:"sine.inOut"}, 11.719999999999999);
+tl.set("#highlight-1", {opacity:0}, 12.27);
+tl.fromTo("#highlight-2 .pill", {opacity:0,filter:"blur(8px)"}, {opacity:1,filter:"blur(0px)",duration:0.5375000000000005,ease:"sine.inOut",immediateRender:false}, 26.237);
+tl.to("#highlight-2 .pill", {opacity:0,filter:"blur(8px)",duration:0.5375000000000005,ease:"sine.inOut"}, 27.8495);
+tl.set("#highlight-2", {opacity:0}, 28.387);
+tl.fromTo("#highlight-3 .pill", {opacity:0,filter:"blur(8px)"}, {opacity:1,filter:"blur(0px)",duration:0.55,ease:"sine.inOut",immediateRender:false}, 28.537);
+tl.to("#highlight-3 .pill", {opacity:0,filter:"blur(8px)",duration:0.55,ease:"sine.inOut"}, 32.017);
 tl.set("#highlight-3", {opacity:0}, 32.567);
-tl.fromTo("#highlight-4 .pill", {opacity:0,y:8}, {opacity:1,y:0,duration:0.14,ease:"power2.out",immediateRender:false}, 41.923);
+tl.fromTo("#highlight-4 .pill", {opacity:0,filter:"blur(8px)"}, {opacity:1,filter:"blur(0px)",duration:0.55,ease:"sine.inOut",immediateRender:false}, 41.923);
+tl.to("#highlight-4 .pill", {opacity:0,filter:"blur(8px)",duration:0.55,ease:"sine.inOut"}, 44.973000000000006);
 tl.set("#highlight-4", {opacity:0}, 45.523);
-tl.fromTo("#highlight-5 .pill", {opacity:0,y:8}, {opacity:1,y:0,duration:0.14,ease:"power2.out",immediateRender:false}, 60.203);
+tl.fromTo("#highlight-5 .pill", {opacity:0,filter:"blur(8px)"}, {opacity:1,filter:"blur(0px)",duration:0.55,ease:"sine.inOut",immediateRender:false}, 60.203);
+tl.to("#highlight-5 .pill", {opacity:0,filter:"blur(8px)",duration:0.55,ease:"sine.inOut"}, 66.453);
 tl.set("#highlight-5", {opacity:0}, 67.003);
-tl.fromTo("#highlight-6 .pill", {opacity:0,y:8}, {opacity:1,y:0,duration:0.14,ease:"power2.out",immediateRender:false}, 75.837);
+tl.fromTo("#highlight-6 .pill", {opacity:0,filter:"blur(8px)"}, {opacity:1,filter:"blur(0px)",duration:0.55,ease:"sine.inOut",immediateRender:false}, 75.837);
+tl.to("#highlight-6 .pill", {opacity:0,filter:"blur(8px)",duration:0.55,ease:"sine.inOut"}, 77.927);
 tl.set("#highlight-6", {opacity:0}, 78.477);
-tl.fromTo("#highlight-7 .pill", {opacity:0,y:8}, {opacity:1,y:0,duration:0.14,ease:"power2.out",immediateRender:false}, 97.073);
+tl.fromTo("#highlight-7 .pill", {opacity:0,filter:"blur(8px)"}, {opacity:1,filter:"blur(0px)",duration:0.55,ease:"sine.inOut",immediateRender:false}, 97.073);
+tl.to("#highlight-7 .pill", {opacity:0,filter:"blur(8px)",duration:0.55,ease:"sine.inOut"}, 99.903);
 tl.set("#highlight-7", {opacity:0}, 100.453);
-tl.fromTo("#highlight-8 .pill", {opacity:0,y:8}, {opacity:1,y:0,duration:0.14,ease:"power2.out",immediateRender:false}, 102.893);
-tl.set("#highlight-8", {opacity:0}, 105.273);
-tl.fromTo("#highlight-9 .pill", {opacity:0,y:8}, {opacity:1,y:0,duration:0.14,ease:"power2.out",immediateRender:false}, 107.807);
-tl.set("#highlight-9", {opacity:0}, 112.567);
-tl.fromTo("#highlight-10 .pill", {opacity:0,y:8}, {opacity:1,y:0,duration:0.14,ease:"power2.out",immediateRender:false}, 123.967);
-tl.set("#highlight-10", {opacity:0}, 127.307);
-tl.fromTo("#highlight-11 .pill", {opacity:0,y:8}, {opacity:1,y:0,duration:0.14,ease:"power2.out",immediateRender:false}, 127.627);
-tl.set("#highlight-11", {opacity:0}, 130.007);
-tl.fromTo("#highlight-12 .pill", {opacity:0,y:8}, {opacity:1,y:0,duration:0.14,ease:"power2.out",immediateRender:false}, 130.007);
-tl.set("#highlight-12", {opacity:0}, 132.967);
+tl.fromTo("#highlight-8 .pill", {opacity:0,filter:"blur(8px)"}, {opacity:1,filter:"blur(0px)",duration:0.55,ease:"sine.inOut",immediateRender:false}, 102.893);
+tl.to("#highlight-8 .pill", {opacity:0,filter:"blur(8px)",duration:0.55,ease:"sine.inOut"}, 104.74300000000001);
+tl.set("#highlight-8", {opacity:0}, 105.293);
+tl.fromTo("#highlight-9 .pill", {opacity:0,filter:"blur(8px)"}, {opacity:1,filter:"blur(0px)",duration:0.510749999999998,ease:"sine.inOut",immediateRender:false}, 107.807);
+tl.to("#highlight-9 .pill", {opacity:0,filter:"blur(8px)",duration:0.510749999999998,ease:"sine.inOut"}, 109.33924999999999);
+tl.set("#highlight-9", {opacity:0}, 109.85);
+tl.fromTo("#highlight-10 .pill", {opacity:0,filter:"blur(8px)"}, {opacity:1,filter:"blur(0px)",duration:0.2207499999999989,ease:"sine.inOut",immediateRender:false}, 123.967);
+tl.to("#highlight-10 .pill", {opacity:0,filter:"blur(8px)",duration:0.2207499999999989,ease:"sine.inOut"}, 124.62925);
+tl.set("#highlight-10", {opacity:0}, 124.85);
+tl.fromTo("#promo-30-tage", {opacity:0}, {opacity:1,duration:0.7,ease:"sine.inOut",immediateRender:false}, 110.0);
+tl.fromTo("#promo-30-tage .card-image", {filter:"blur(5px)"}, {filter:"blur(0px)",duration:0.7,ease:"sine.inOut",immediateRender:false}, 110.0);
+tl.to("#promo-30-tage", {opacity:0,duration:0.7,ease:"sine.inOut"}, 115.3);
+tl.to("#promo-30-tage .card-image", {filter:"blur(5px)",duration:0.7,ease:"sine.inOut"}, 115.3);
+tl.set("#promo-30-tage", {opacity:0}, 116.0);
+tl.fromTo("#promo-b1-kurzcheck", {opacity:0}, {opacity:1,duration:0.7,ease:"sine.inOut",immediateRender:false}, 125.0);
+tl.fromTo("#promo-b1-kurzcheck .card-image", {filter:"blur(5px)"}, {filter:"blur(0px)",duration:0.7,ease:"sine.inOut",immediateRender:false}, 125.0);
+tl.to("#promo-b1-kurzcheck", {opacity:0,duration:0.7,ease:"sine.inOut"}, 130.3);
+tl.to("#promo-b1-kurzcheck .card-image", {filter:"blur(5px)",duration:0.7,ease:"sine.inOut"}, 130.3);
+tl.set("#promo-b1-kurzcheck", {opacity:0}, 131.0);
 window.__timelines.recut=tl;
 </script></body></html>

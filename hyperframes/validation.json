@@ -11,5 +11,35 @@
     "samples": 720,
     "failures": []
   },
-  "hyperframes_check": "passed; runtime/layout/motion clean; 21/21 sampled text contrast checks passed"
+  "hyperframes_check": "passed; runtime/layout/motion clean; 21/21 sampled text contrast checks passed",
+  "image_cards": {
+    "cards": [
+      {
+        "id": "promo-30-tage",
+        "start": "110.0",
+        "duration": "6.0"
+      },
+      {
+        "id": "promo-b1-kurzcheck",
+        "start": "125.0",
+        "duration": "6.0"
+      }
+    ],
+    "failures": []
+  },
+  "text_style": {
+    "highlights": 11,
+    "failures": [],
+    "blue": "rgb(54, 93, 125)",
+    "subtitleBackground": "rgba(10, 17, 24, 0.82)"
+  },
+  "image_card_transition_check": "passed; runtime/layout/motion clean; 18/18 sampled text contrast checks passed",
+  "export": {
+    "duration": 138.8,
+    "width": 886,
+    "height": 1920,
+    "fps": 30,
+    "frames": 4164,
+    "full_decode": "passed"
+  }
 }

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "30-tage",
+    "title": "30 Tage für mehr Sicherheit beim Sprechen",
+    "src": "assets/30-tage-sprechen.jpg",
+    "start": 110.0,
+    "duration": 6.0,
+    "fade": 0.7
+  },
+  {
+    "id": "b1-kurzcheck",
+    "title": "Wie sicher ist dein Deutsch auf B1?",
+    "src": "assets/b1-kurzcheck.jpg",
+    "start": 125.0,
+    "duration": 6.0,
+    "fade": 0.7
+  }
+]
