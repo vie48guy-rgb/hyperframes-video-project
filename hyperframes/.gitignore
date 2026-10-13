@@ -1,0 +1,6 @@
+.build/
+assets/speech-cut*.mp4
+assets/speech-cut.wav
+renders/
+.hyperframes/
+node_modules/

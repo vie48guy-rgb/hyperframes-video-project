@@ -1,0 +1,7 @@
+{
+  "mode": "prebaked",
+  "source": "assets/speech-cut.mp4",
+  "output": "assets/speech-cut-graded.mp4",
+  "filters": "curves=all='0/0.012 0.10/0.135 0.30/0.345 0.60/0.64 0.82/0.835 1/1',eq=saturation=1.025",
+  "description": "Natural global shadow/midtone lift with protected whites; no skin retouching or face isolation."
+}

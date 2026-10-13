@@ -1,0 +1,773 @@
+{
+  "fps": 30,
+  "duration": 138.8,
+  "source_duration": 177.964,
+  "removed_seconds": 39.16399999999999,
+  "keep_frames": [
+    [
+      444,
+      735
+    ],
+    [
+      771,
+      816
+    ],
+    [
+      838,
+      909
+    ],
+    [
+      934,
+      1311
+    ],
+    [
+      1322,
+      1389
+    ],
+    [
+      1410,
+      1811
+    ],
+    [
+      1833,
+      2165
+    ],
+    [
+      2176,
+      2250
+    ],
+    [
+      2283,
+      2384
+    ],
+    [
+      2415,
+      2924
+    ],
+    [
+      2935,
+      3139
+    ],
+    [
+      3149,
+      3354
+    ],
+    [
+      3372,
+      3468
+    ],
+    [
+      3624,
+      4013
+    ],
+    [
+      4159,
+      4378
+    ],
+    [
+      4400,
+      4503
+    ],
+    [
+      4526,
+      5131
+    ],
+    [
+      5151,
+      5226
+    ]
+  ],
+  "remove_frames": [
+    [
+      0,
+      444
+    ],
+    [
+      735,
+      771
+    ],
+    [
+      816,
+      838
+    ],
+    [
+      909,
+      934
+    ],
+    [
+      1311,
+      1322
+    ],
+    [
+      1389,
+      1410
+    ],
+    [
+      1811,
+      1833
+    ],
+    [
+      2165,
+      2176
+    ],
+    [
+      2250,
+      2283
+    ],
+    [
+      2384,
+      2415
+    ],
+    [
+      2924,
+      2935
+    ],
+    [
+      3139,
+      3149
+    ],
+    [
+      3354,
+      3372
+    ],
+    [
+      3468,
+      3624
+    ],
+    [
+      4013,
+      4159
+    ],
+    [
+      4378,
+      4400
+    ],
+    [
+      4503,
+      4526
+    ],
+    [
+      5131,
+      5151
+    ],
+    [
+      5226,
+      5339
+    ]
+  ],
+  "captions": [
+    {
+      "start": 0.23,
+      "end": 1.68,
+      "text": "Du möchtest mit einem Freund"
+    },
+    {
+      "start": 1.69,
+      "end": 4.05,
+      "text": "oder einer Freundin Essen gehen."
+    },
+    {
+      "start": 4.81,
+      "end": 7.24,
+      "text": "30 Minuten vor eurem Treffen"
+    },
+    {
+      "start": 7.25,
+      "end": 9.690000000000001,
+      "text": "sagt er oder sie ab."
+    },
+    {
+      "start": 9.87,
+      "end": 11.190000000000001,
+      "text": "Wie reagierst du?"
+    },
+    {
+      "start": 11.3167,
+      "end": 13.5767,
+      "text": "Du könntest zum Beispiel sagen,"
+    },
+    {
+      "start": 13.6833,
+      "end": 14.2233,
+      "text": "okay,"
+    },
+    {
+      "start": 14.7033,
+      "end": 15.503300000000001,
+      "text": "kein Problem,"
+    },
+    {
+      "start": 15.9033,
+      "end": 17.9033,
+      "text": "vielleicht ein anderes Mal."
+    },
+    {
+      "start": 18.3233,
+      "end": 19.7433,
+      "text": "Und das ist nicht schlecht,"
+    },
+    {
+      "start": 19.8233,
+      "end": 20.5833,
+      "text": "das ist okay,"
+    },
+    {
+      "start": 21.0633,
+      "end": 21.9233,
+      "text": "alles richtig."
+    },
+    {
+      "start": 22.4433,
+      "end": 23.9733,
+      "text": "Das ist wahrscheinlich das"
+    },
+    {
+      "start": 23.9833,
+      "end": 24.723300000000002,
+      "text": "Deutsch,"
+    },
+    {
+      "start": 24.9433,
+      "end": 26.1033,
+      "text": "das du gelernt hast."
+    },
+    {
+      "start": 26.2367,
+      "end": 27.746699999999997,
+      "text": "Aber ist es auch dein"
+    },
+    {
+      "start": 27.7567,
+      "end": 28.3767,
+      "text": "Deutsch?"
+    },
+    {
+      "start": 28.5367,
+      "end": 30.866699999999998,
+      "text": "Wenn du wirklich natürlich klingen"
+    },
+    {
+      "start": 30.8767,
+      "end": 31.7967,
+      "text": "möchtest,"
+    },
+    {
+      "start": 32.1767,
+      "end": 33.8367,
+      "text": "dann mach das Deutsch,"
+    },
+    {
+      "start": 34.1367,
+      "end": 35.8067,
+      "text": "das du gelernt hast zu"
+    },
+    {
+      "start": 35.8167,
+      "end": 36.8467,
+      "text": "deinem Deutsch."
+    },
+    {
+      "start": 36.8567,
+      "end": 39.106700000000004,
+      "text": "Du könntest zum Beispiel ein"
+    },
+    {
+      "start": 39.1167,
+      "end": 41.3067,
+      "text": "bisschen Emotion bringen und"
+    },
+    {
+      "start": 41.3167,
+      "end": 41.7367,
+      "text": "sagen,"
+    },
+    {
+      "start": 41.9233,
+      "end": 42.6833,
+      "text": "oh schade,"
+    },
+    {
+      "start": 43.0433,
+      "end": 44.7533,
+      "text": "ich hatte mich schon darauf"
+    },
+    {
+      "start": 44.7633,
+      "end": 45.6633,
+      "text": "gefreut."
+    },
+    {
+      "start": 46.3433,
+      "end": 47.4833,
+      "text": "Aber okay,"
+    },
+    {
+      "start": 47.6633,
+      "end": 48.4233,
+      "text": "ich verstehe,"
+    },
+    {
+      "start": 48.7033,
+      "end": 49.463300000000004,
+      "text": "kein Problem."
+    },
+    {
+      "start": 50.0833,
+      "end": 51.713300000000004,
+      "text": "Dann treffen wir uns ein"
+    },
+    {
+      "start": 51.7233,
+      "end": 52.7033,
+      "text": "anderes Mal."
+    },
+    {
+      "start": 53.0367,
+      "end": 53.3767,
+      "text": "Und,"
+    },
+    {
+      "start": 54.0167,
+      "end": 55.2567,
+      "text": "sag noch dazu,"
+    },
+    {
+      "start": 55.3967,
+      "end": 57.5467,
+      "text": "sag einfach Bescheid, wann du"
+    },
+    {
+      "start": 57.5567,
+      "end": 58.6367,
+      "text": "Zeit hast."
+    },
+    {
+      "start": 58.8233,
+      "end": 60.1933,
+      "text": "Merkst du den Unterschied?"
+    },
+    {
+      "start": 60.2033,
+      "end": 62.633300000000006,
+      "text": "Du bist persönlicher, bist ein"
+    },
+    {
+      "start": 62.6433,
+      "end": 65.3333,
+      "text": "bisschen emotionaler und dadurch"
+    },
+    {
+      "start": 65.3433,
+      "end": 67.1433,
+      "text": "auch natürlicher."
+    },
+    {
+      "start": 67.5033,
+      "end": 68.1033,
+      "text": "Ich denke,"
+    },
+    {
+      "start": 68.4033,
+      "end": 70.6933,
+      "text": "in deiner Muttersprache wirst du"
+    },
+    {
+      "start": 70.7033,
+      "end": 73.1033,
+      "text": "auch deine Emotion ausdrücken,"
+    },
+    {
+      "start": 73.2833,
+      "end": 75.13329999999999,
+      "text": "wenn du ein bisschen enttäuscht"
+    },
+    {
+      "start": 75.1433,
+      "end": 75.5433,
+      "text": "bist."
+    },
+    {
+      "start": 75.8367,
+      "end": 76.2767,
+      "text": "Schade,"
+    },
+    {
+      "start": 76.7167,
+      "end": 77.7667,
+      "text": "ich hatte mich schon darauf"
+    },
+    {
+      "start": 77.7767,
+      "end": 78.6167,
+      "text": "gefreut."
+    },
+    {
+      "start": 79.1967,
+      "end": 80.1967,
+      "text": "Aber okay,"
+    },
+    {
+      "start": 80.4367,
+      "end": 81.2167,
+      "text": "ich verstehe,"
+    },
+    {
+      "start": 81.4567,
+      "end": 82.2367,
+      "text": "kein Problem."
+    },
+    {
+      "start": 82.5033,
+      "end": 83.85329999999999,
+      "text": "Dann treffen wir uns ein"
+    },
+    {
+      "start": 83.8633,
+      "end": 84.63329999999999,
+      "text": "anderes Mal."
+    },
+    {
+      "start": 84.6433,
+      "end": 87.9733,
+      "text": "Sag einfach Bescheid, wann du"
+    },
+    {
+      "start": 87.9833,
+      "end": 89.2433,
+      "text": "Zeit hast."
+    },
+    {
+      "start": 89.4233,
+      "end": 90.0633,
+      "text": "Ich denke,"
+    },
+    {
+      "start": 90.5833,
+      "end": 92.4233,
+      "text": "das ist ein guter Weg."
+    },
+    {
+      "start": 92.5733,
+      "end": 93.1133,
+      "text": "Versuch,"
+    },
+    {
+      "start": 93.4933,
+      "end": 94.8433,
+      "text": "das Deutsch, das du gelernt"
+    },
+    {
+      "start": 94.8533,
+      "end": 95.4733,
+      "text": "hast,"
+    },
+    {
+      "start": 95.7733,
+      "end": 96.8933,
+      "text": "so zu benutzen,"
+    },
+    {
+      "start": 97.0733,
+      "end": 99.7633,
+      "text": "dass es wirklich deine Emotionen"
+    },
+    {
+      "start": 99.7733,
+      "end": 100.5933,
+      "text": "ausdrückt,"
+    },
+    {
+      "start": 100.7333,
+      "end": 102.7533,
+      "text": "dass es dein Deutsch wird."
+    },
+    {
+      "start": 102.8933,
+      "end": 104.88329999999999,
+      "text": "Mach das Deutsch zu deinem"
+    },
+    {
+      "start": 104.8933,
+      "end": 105.4133,
+      "text": "Deutsch."
+    },
+    {
+      "start": 105.4867,
+      "end": 107.57669999999999,
+      "text": "Für intensives Sprechtraining"
+    },
+    {
+      "start": 107.5867,
+      "end": 109.8367,
+      "text": "schau dir gerne einmal unsere"
+    },
+    {
+      "start": 109.8467,
+      "end": 112.7067,
+      "text": "30-Tage-Sprech-Challenge an."
+    },
+    {
+      "start": 112.8733,
+      "end": 114.10329999999999,
+      "text": "Die findest du über den"
+    },
+    {
+      "start": 114.1133,
+      "end": 116.1533,
+      "text": "Link in der Videobeschreibung."
+    },
+    {
+      "start": 116.2267,
+      "end": 117.4367,
+      "text": "Und wenn du nicht genau"
+    },
+    {
+      "start": 117.4467,
+      "end": 118.08670000000001,
+      "text": "weißt,"
+    },
+    {
+      "start": 118.2467,
+      "end": 119.85669999999999,
+      "text": "auf welcher Stufe du aktuell"
+    },
+    {
+      "start": 119.8667,
+      "end": 121.3767,
+      "text": "bist und wie du am"
+    },
+    {
+      "start": 121.3867,
+      "end": 123.4867,
+      "text": "besten weiter lernen sollst,"
+    },
+    {
+      "start": 123.9667,
+      "end": 126.07669999999999,
+      "text": "dann mach doch unseren kostenlosen"
+    },
+    {
+      "start": 126.0867,
+      "end": 127.4467,
+      "text": "Kurzcheck."
+    },
+    {
+      "start": 127.6267,
+      "end": 129.0067,
+      "text": "Das sind nur acht Fragen,"
+    },
+    {
+      "start": 129.2267,
+      "end": 130.8367,
+      "text": "ein paar Minuten und ich"
+    },
+    {
+      "start": 130.8467,
+      "end": 133.1067,
+      "text": "gebe dir persönlich mein Feedback."
+    },
+    {
+      "start": 133.3867,
+      "end": 135.0967,
+      "text": "Auch diesen Link findest du"
+    },
+    {
+      "start": 135.1067,
+      "end": 136.30669999999998,
+      "text": "in der Videobeschreibung."
+    },
+    {
+      "start": 136.48,
+      "end": 137.42,
+      "text": "Ich freue mich schon,"
+    },
+    {
+      "start": 137.68,
+      "end": 138.7,
+      "text": "von dir zu lesen."
+    }
+  ],
+  "zooms": [
+    {
+      "time": 0,
+      "scale": 1,
+      "duration": 0,
+      "ease": "sine.inOut"
+    },
+    {
+      "time": 9.81,
+      "scale": 1.12,
+      "duration": 1.3,
+      "ease": "sine.inOut"
+    },
+    {
+      "time": 18.263,
+      "scale": 1,
+      "duration": 1.3,
+      "ease": "sine.inOut"
+    },
+    {
+      "time": 26.177,
+      "scale": 1.12,
+      "duration": 1.3,
+      "ease": "sine.inOut"
+    },
+    {
+      "time": 34.077,
+      "scale": 1,
+      "duration": 1.3,
+      "ease": "sine.inOut"
+    },
+    {
+      "time": 41.863,
+      "scale": 1.12,
+      "duration": 1.3,
+      "ease": "sine.inOut"
+    },
+    {
+      "time": 50.023,
+      "scale": 1,
+      "duration": 1.3,
+      "ease": "sine.inOut"
+    },
+    {
+      "time": 58.763,
+      "scale": 1.12,
+      "duration": 1.3,
+      "ease": "sine.inOut"
+    },
+    {
+      "time": 67.443,
+      "scale": 1,
+      "duration": 1.3,
+      "ease": "sine.inOut"
+    },
+    {
+      "time": 73.223,
+      "scale": 1.12,
+      "duration": 1.3,
+      "ease": "sine.inOut"
+    },
+    {
+      "time": 79.137,
+      "scale": 1,
+      "duration": 1.3,
+      "ease": "sine.inOut"
+    },
+    {
+      "time": 84.583,
+      "scale": 1.12,
+      "duration": 1.3,
+      "ease": "sine.inOut"
+    },
+    {
+      "time": 93.433,
+      "scale": 1,
+      "duration": 1.3,
+      "ease": "sine.inOut"
+    },
+    {
+      "time": 100.673,
+      "scale": 1.12,
+      "duration": 1.3,
+      "ease": "sine.inOut"
+    },
+    {
+      "time": 107.747,
+      "scale": 1,
+      "duration": 1.3,
+      "ease": "sine.inOut"
+    },
+    {
+      "time": 112.753,
+      "scale": 1.12,
+      "duration": 1.3,
+      "ease": "sine.inOut"
+    },
+    {
+      "time": 120.267,
+      "scale": 1,
+      "duration": 1.3,
+      "ease": "sine.inOut"
+    },
+    {
+      "time": 127.567,
+      "scale": 1.12,
+      "duration": 1.3,
+      "ease": "sine.inOut"
+    },
+    {
+      "time": 133.327,
+      "scale": 1,
+      "duration": 1.3,
+      "ease": "sine.inOut"
+    }
+  ],
+  "highlights": [
+    {
+      "start": 4.81,
+      "end": 8.2,
+      "text": "30 Minuten vorher"
+    },
+    {
+      "start": 9.87,
+      "end": 11.05,
+      "text": "Wie reagierst du?"
+    },
+    {
+      "start": 26.237,
+      "end": 28.237,
+      "text": "Dein Deutsch"
+    },
+    {
+      "start": 28.537,
+      "end": 32.567,
+      "text": "Natürlich sprechen"
+    },
+    {
+      "start": 41.923,
+      "end": 45.523,
+      "text": "„Oh, schade!“"
+    },
+    {
+      "start": 60.203,
+      "end": 67.003,
+      "text": "Persönlicher. Emotionaler. Natürlicher."
+    },
+    {
+      "start": 75.837,
+      "end": 78.477,
+      "text": "„Ich hatte mich schon darauf gefreut.“"
+    },
+    {
+      "start": 97.073,
+      "end": 100.453,
+      "text": "Deine Emotionen"
+    },
+    {
+      "start": 102.893,
+      "end": 105.273,
+      "text": "Mach Deutsch zu deinem Deutsch"
+    },
+    {
+      "start": 107.807,
+      "end": 112.567,
+      "text": "30-Tage-Sprech-Challenge"
+    },
+    {
+      "start": 123.967,
+      "end": 127.307,
+      "text": "Kostenloser Kurzcheck"
+    },
+    {
+      "start": 127.627,
+      "end": 130.007,
+      "text": "8 Fragen · wenige Minuten"
+    },
+    {
+      "start": 130.007,
+      "end": 132.967,
+      "text": "Persönliches Feedback"
+    }
+  ]
+}

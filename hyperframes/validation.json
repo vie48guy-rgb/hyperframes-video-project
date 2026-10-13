@@ -1,0 +1,15 @@
+{
+  "karaoke": {
+    "words": 288,
+    "failures": [],
+    "fonts": [
+      "\"Playfair Display\", serif"
+    ]
+  },
+  "smooth_zoom": {
+    "transitions": 18,
+    "samples": 720,
+    "failures": []
+  },
+  "hyperframes_check": "passed; runtime/layout/motion clean; 21/21 sampled text contrast checks passed"
+}

@@ -1,0 +1,2039 @@
+[
+  {
+    "start": 0.23,
+    "end": 0.31,
+    "text": "Du",
+    "probability": 0.647162914276123,
+    "source_start": 15.03
+  },
+  {
+    "start": 0.31,
+    "end": 0.79,
+    "text": "möchtest",
+    "probability": 0.9843799869219462,
+    "source_start": 15.11
+  },
+  {
+    "start": 0.79,
+    "end": 0.99,
+    "text": "mit",
+    "probability": 0.9858642220497131,
+    "source_start": 15.59
+  },
+  {
+    "start": 0.99,
+    "end": 1.25,
+    "text": "einem",
+    "probability": 0.9889348149299622,
+    "source_start": 15.79
+  },
+  {
+    "start": 1.25,
+    "end": 1.69,
+    "text": "Freund",
+    "probability": 0.9978475570678711,
+    "source_start": 16.05
+  },
+  {
+    "start": 1.69,
+    "end": 2.17,
+    "text": "oder",
+    "probability": 0.9600133299827576,
+    "source_start": 16.49
+  },
+  {
+    "start": 2.17,
+    "end": 2.41,
+    "text": "einer",
+    "probability": 0.940313458442688,
+    "source_start": 16.97
+  },
+  {
+    "start": 2.41,
+    "end": 3.07,
+    "text": "Freundin",
+    "probability": 0.9966127872467041,
+    "source_start": 17.21
+  },
+  {
+    "start": 3.07,
+    "end": 3.59,
+    "text": "Essen",
+    "probability": 0.6399030089378357,
+    "source_start": 17.87
+  },
+  {
+    "start": 3.59,
+    "end": 3.91,
+    "text": "gehen.",
+    "probability": 0.9966039657592773,
+    "source_start": 18.39
+  },
+  {
+    "start": 4.81,
+    "end": 5.21,
+    "text": "30",
+    "probability": 0.9340304732322693,
+    "source_start": 19.61
+  },
+  {
+    "start": 5.21,
+    "end": 5.71,
+    "text": "Minuten",
+    "probability": 0.9882529377937317,
+    "source_start": 20.01
+  },
+  {
+    "start": 5.71,
+    "end": 6.29,
+    "text": "vor",
+    "probability": 0.9978505373001099,
+    "source_start": 20.51
+  },
+  {
+    "start": 6.29,
+    "end": 6.73,
+    "text": "eurem",
+    "probability": 0.9908298850059509,
+    "source_start": 21.09
+  },
+  {
+    "start": 6.73,
+    "end": 7.25,
+    "text": "Treffen",
+    "probability": 0.9855862855911255,
+    "source_start": 21.53
+  },
+  {
+    "start": 7.25,
+    "end": 8.01,
+    "text": "sagt",
+    "probability": 0.8801822662353516,
+    "source_start": 22.05
+  },
+  {
+    "start": 8.01,
+    "end": 8.45,
+    "text": "er",
+    "probability": 0.9860745072364807,
+    "source_start": 22.81
+  },
+  {
+    "start": 8.45,
+    "end": 8.81,
+    "text": "oder",
+    "probability": 0.8070718050003052,
+    "source_start": 23.25
+  },
+  {
+    "start": 8.81,
+    "end": 9.11,
+    "text": "sie",
+    "probability": 0.9974588751792908,
+    "source_start": 23.61
+  },
+  {
+    "start": 9.11,
+    "end": 9.55,
+    "text": "ab.",
+    "probability": 0.9922854900360107,
+    "source_start": 23.91
+  },
+  {
+    "start": 9.87,
+    "end": 10.39,
+    "text": "Wie",
+    "probability": 0.9828201532363892,
+    "source_start": 25.87
+  },
+  {
+    "start": 10.39,
+    "end": 10.91,
+    "text": "reagierst",
+    "probability": 0.9868541161219279,
+    "source_start": 26.39
+  },
+  {
+    "start": 10.91,
+    "end": 11.05,
+    "text": "du?",
+    "probability": 0.9622786045074463,
+    "source_start": 26.91
+  },
+  {
+    "start": 11.3167,
+    "end": 11.9167,
+    "text": "Du",
+    "probability": 0.5982813835144043,
+    "source_start": 28.05
+  },
+  {
+    "start": 11.9167,
+    "end": 12.4167,
+    "text": "könntest",
+    "probability": 0.962819367647171,
+    "source_start": 28.65
+  },
+  {
+    "start": 12.4167,
+    "end": 12.6567,
+    "text": "zum",
+    "probability": 0.8174809217453003,
+    "source_start": 29.15
+  },
+  {
+    "start": 12.6567,
+    "end": 12.9967,
+    "text": "Beispiel",
+    "probability": 0.997730553150177,
+    "source_start": 29.39
+  },
+  {
+    "start": 12.9967,
+    "end": 13.4367,
+    "text": "sagen,",
+    "probability": 0.9955008625984192,
+    "source_start": 29.73
+  },
+  {
+    "start": 13.6833,
+    "end": 14.0833,
+    "text": "okay,",
+    "probability": 0.674560546875,
+    "source_start": 31.25
+  },
+  {
+    "start": 14.7033,
+    "end": 14.8633,
+    "text": "kein",
+    "probability": 0.9960463643074036,
+    "source_start": 32.27
+  },
+  {
+    "start": 14.8633,
+    "end": 15.3633,
+    "text": "Problem,",
+    "probability": 0.9888986945152283,
+    "source_start": 32.43
+  },
+  {
+    "start": 15.9033,
+    "end": 16.4033,
+    "text": "vielleicht",
+    "probability": 0.9974779486656189,
+    "source_start": 33.47
+  },
+  {
+    "start": 16.4033,
+    "end": 17.0033,
+    "text": "ein",
+    "probability": 0.9901304841041565,
+    "source_start": 33.97
+  },
+  {
+    "start": 17.0033,
+    "end": 17.3433,
+    "text": "anderes",
+    "probability": 0.9847361445426941,
+    "source_start": 34.57
+  },
+  {
+    "start": 17.3433,
+    "end": 17.7633,
+    "text": "Mal.",
+    "probability": 0.9177395105361938,
+    "source_start": 34.91
+  },
+  {
+    "start": 18.3233,
+    "end": 18.5233,
+    "text": "Und",
+    "probability": 0.8673617839813232,
+    "source_start": 35.89
+  },
+  {
+    "start": 18.5233,
+    "end": 18.7033,
+    "text": "das",
+    "probability": 0.9848551154136658,
+    "source_start": 36.09
+  },
+  {
+    "start": 18.7033,
+    "end": 18.9233,
+    "text": "ist",
+    "probability": 0.9957467913627625,
+    "source_start": 36.27
+  },
+  {
+    "start": 18.9233,
+    "end": 19.2633,
+    "text": "nicht",
+    "probability": 0.9733691215515137,
+    "source_start": 36.49
+  },
+  {
+    "start": 19.2633,
+    "end": 19.6033,
+    "text": "schlecht,",
+    "probability": 0.9964632391929626,
+    "source_start": 36.83
+  },
+  {
+    "start": 19.8233,
+    "end": 19.9033,
+    "text": "das",
+    "probability": 0.9828039407730103,
+    "source_start": 37.39
+  },
+  {
+    "start": 19.9033,
+    "end": 20.0633,
+    "text": "ist",
+    "probability": 0.9957774877548218,
+    "source_start": 37.47
+  },
+  {
+    "start": 20.0633,
+    "end": 20.4433,
+    "text": "okay,",
+    "probability": 0.9500519037246704,
+    "source_start": 37.63
+  },
+  {
+    "start": 21.0633,
+    "end": 21.3033,
+    "text": "alles",
+    "probability": 0.9868952035903931,
+    "source_start": 38.63
+  },
+  {
+    "start": 21.3033,
+    "end": 21.7833,
+    "text": "richtig.",
+    "probability": 0.9925664663314819,
+    "source_start": 38.87
+  },
+  {
+    "start": 22.4433,
+    "end": 22.6433,
+    "text": "Das",
+    "probability": 0.9900591969490051,
+    "source_start": 40.01
+  },
+  {
+    "start": 22.6433,
+    "end": 22.8033,
+    "text": "ist",
+    "probability": 0.9971204996109009,
+    "source_start": 40.21
+  },
+  {
+    "start": 22.8033,
+    "end": 23.5233,
+    "text": "wahrscheinlich",
+    "probability": 0.9823676347732544,
+    "source_start": 40.37
+  },
+  {
+    "start": 23.5233,
+    "end": 23.9833,
+    "text": "das",
+    "probability": 0.9415492415428162,
+    "source_start": 41.09
+  },
+  {
+    "start": 23.9833,
+    "end": 24.5833,
+    "text": "Deutsch,",
+    "probability": 0.9862240552902222,
+    "source_start": 41.55
+  },
+  {
+    "start": 24.9433,
+    "end": 25.0633,
+    "text": "das",
+    "probability": 0.9661398530006409,
+    "source_start": 42.51
+  },
+  {
+    "start": 25.0633,
+    "end": 25.2433,
+    "text": "du",
+    "probability": 0.938068151473999,
+    "source_start": 42.63
+  },
+  {
+    "start": 25.2433,
+    "end": 25.5633,
+    "text": "gelernt",
+    "probability": 0.9933724403381348,
+    "source_start": 42.81
+  },
+  {
+    "start": 25.5633,
+    "end": 25.9633,
+    "text": "hast.",
+    "probability": 0.9989877343177795,
+    "source_start": 43.13
+  },
+  {
+    "start": 26.2367,
+    "end": 26.5567,
+    "text": "Aber",
+    "probability": 0.9882403612136841,
+    "source_start": 44.17
+  },
+  {
+    "start": 26.5567,
+    "end": 27.0567,
+    "text": "ist",
+    "probability": 0.9600883722305298,
+    "source_start": 44.49
+  },
+  {
+    "start": 27.0567,
+    "end": 27.2167,
+    "text": "es",
+    "probability": 0.8257415294647217,
+    "source_start": 44.99
+  },
+  {
+    "start": 27.2167,
+    "end": 27.4167,
+    "text": "auch",
+    "probability": 0.9987622499465942,
+    "source_start": 45.15
+  },
+  {
+    "start": 27.4167,
+    "end": 27.7567,
+    "text": "dein",
+    "probability": 0.9925512075424194,
+    "source_start": 45.35
+  },
+  {
+    "start": 27.7567,
+    "end": 28.2367,
+    "text": "Deutsch?",
+    "probability": 0.9956764578819275,
+    "source_start": 45.69
+  },
+  {
+    "start": 28.5367,
+    "end": 28.8967,
+    "text": "Wenn",
+    "probability": 0.9954304695129395,
+    "source_start": 47.17
+  },
+  {
+    "start": 28.8967,
+    "end": 29.0567,
+    "text": "du",
+    "probability": 0.996185839176178,
+    "source_start": 47.53
+  },
+  {
+    "start": 29.0567,
+    "end": 29.5167,
+    "text": "wirklich",
+    "probability": 0.9932339787483215,
+    "source_start": 47.69
+  },
+  {
+    "start": 29.5167,
+    "end": 30.4367,
+    "text": "natürlich",
+    "probability": 0.9565495848655701,
+    "source_start": 48.15
+  },
+  {
+    "start": 30.4367,
+    "end": 30.8767,
+    "text": "klingen",
+    "probability": 0.9690679013729095,
+    "source_start": 49.07
+  },
+  {
+    "start": 30.8767,
+    "end": 31.6567,
+    "text": "möchtest,",
+    "probability": 0.9990788896878561,
+    "source_start": 49.51
+  },
+  {
+    "start": 32.1767,
+    "end": 32.3167,
+    "text": "dann",
+    "probability": 0.9971074461936951,
+    "source_start": 50.81
+  },
+  {
+    "start": 32.3167,
+    "end": 32.6967,
+    "text": "mach",
+    "probability": 0.9325997829437256,
+    "source_start": 50.95
+  },
+  {
+    "start": 32.6967,
+    "end": 32.9967,
+    "text": "das",
+    "probability": 0.9957233667373657,
+    "source_start": 51.33
+  },
+  {
+    "start": 32.9967,
+    "end": 33.6967,
+    "text": "Deutsch,",
+    "probability": 0.994432270526886,
+    "source_start": 51.63
+  },
+  {
+    "start": 34.1367,
+    "end": 34.2567,
+    "text": "das",
+    "probability": 0.9571855068206787,
+    "source_start": 52.77
+  },
+  {
+    "start": 34.2567,
+    "end": 34.4767,
+    "text": "du",
+    "probability": 0.9931886196136475,
+    "source_start": 52.89
+  },
+  {
+    "start": 34.4767,
+    "end": 34.8167,
+    "text": "gelernt",
+    "probability": 0.9954158067703247,
+    "source_start": 53.11
+  },
+  {
+    "start": 34.8167,
+    "end": 35.2567,
+    "text": "hast",
+    "probability": 0.9990124702453613,
+    "source_start": 53.45
+  },
+  {
+    "start": 35.2567,
+    "end": 35.8167,
+    "text": "zu",
+    "probability": 0.46196669340133667,
+    "source_start": 53.89
+  },
+  {
+    "start": 35.8167,
+    "end": 36.4567,
+    "text": "deinem",
+    "probability": 0.9962387084960938,
+    "source_start": 54.45
+  },
+  {
+    "start": 36.4567,
+    "end": 36.8567,
+    "text": "Deutsch.",
+    "probability": 0.9946768283843994,
+    "source_start": 55.09
+  },
+  {
+    "start": 36.8567,
+    "end": 37.6767,
+    "text": "Du",
+    "probability": 0.5312650799751282,
+    "source_start": 55.49
+  },
+  {
+    "start": 37.6767,
+    "end": 38.1367,
+    "text": "könntest",
+    "probability": 0.9586341679096222,
+    "source_start": 56.31
+  },
+  {
+    "start": 38.1367,
+    "end": 38.2767,
+    "text": "zum",
+    "probability": 0.8359599113464355,
+    "source_start": 56.77
+  },
+  {
+    "start": 38.2767,
+    "end": 38.6967,
+    "text": "Beispiel",
+    "probability": 0.9975258708000183,
+    "source_start": 56.91
+  },
+  {
+    "start": 38.6967,
+    "end": 39.1167,
+    "text": "ein",
+    "probability": 0.9762523174285889,
+    "source_start": 57.33
+  },
+  {
+    "start": 39.1167,
+    "end": 39.3967,
+    "text": "bisschen",
+    "probability": 0.9846785068511963,
+    "source_start": 57.75
+  },
+  {
+    "start": 39.3967,
+    "end": 40.3367,
+    "text": "Emotion",
+    "probability": 0.7677878737449646,
+    "source_start": 58.03
+  },
+  {
+    "start": 40.3367,
+    "end": 40.9967,
+    "text": "bringen",
+    "probability": 0.9924871921539307,
+    "source_start": 58.97
+  },
+  {
+    "start": 40.9967,
+    "end": 41.3167,
+    "text": "und",
+    "probability": 0.9676611423492432,
+    "source_start": 59.63
+  },
+  {
+    "start": 41.3167,
+    "end": 41.5967,
+    "text": "sagen,",
+    "probability": 0.9933306574821472,
+    "source_start": 59.95
+  },
+  {
+    "start": 41.9233,
+    "end": 42.0833,
+    "text": "oh",
+    "probability": 0.6484817266464233,
+    "source_start": 61.29
+  },
+  {
+    "start": 42.0833,
+    "end": 42.5433,
+    "text": "schade,",
+    "probability": 0.7412567883729935,
+    "source_start": 61.45
+  },
+  {
+    "start": 43.0433,
+    "end": 43.1833,
+    "text": "ich",
+    "probability": 0.9939542412757874,
+    "source_start": 62.41
+  },
+  {
+    "start": 43.1833,
+    "end": 43.4233,
+    "text": "hatte",
+    "probability": 0.98976069688797,
+    "source_start": 62.55
+  },
+  {
+    "start": 43.4233,
+    "end": 43.6233,
+    "text": "mich",
+    "probability": 0.9983856678009033,
+    "source_start": 62.79
+  },
+  {
+    "start": 43.6233,
+    "end": 44.0833,
+    "text": "schon",
+    "probability": 0.9982522130012512,
+    "source_start": 62.99
+  },
+  {
+    "start": 44.0833,
+    "end": 44.7633,
+    "text": "darauf",
+    "probability": 0.9715884327888489,
+    "source_start": 63.45
+  },
+  {
+    "start": 44.7633,
+    "end": 45.5233,
+    "text": "gefreut.",
+    "probability": 0.9955387314160665,
+    "source_start": 64.13
+  },
+  {
+    "start": 46.3433,
+    "end": 46.8633,
+    "text": "Aber",
+    "probability": 0.9589976072311401,
+    "source_start": 65.71
+  },
+  {
+    "start": 46.8633,
+    "end": 47.3433,
+    "text": "okay,",
+    "probability": 0.7135975956916809,
+    "source_start": 66.23
+  },
+  {
+    "start": 47.6633,
+    "end": 47.7633,
+    "text": "ich",
+    "probability": 0.9941914677619934,
+    "source_start": 67.03
+  },
+  {
+    "start": 47.7633,
+    "end": 48.2833,
+    "text": "verstehe,",
+    "probability": 0.9892954230308533,
+    "source_start": 67.13
+  },
+  {
+    "start": 48.7033,
+    "end": 48.9433,
+    "text": "kein",
+    "probability": 0.9970609545707703,
+    "source_start": 68.07
+  },
+  {
+    "start": 48.9433,
+    "end": 49.3233,
+    "text": "Problem.",
+    "probability": 0.993602454662323,
+    "source_start": 68.31
+  },
+  {
+    "start": 50.0833,
+    "end": 50.3833,
+    "text": "Dann",
+    "probability": 0.9921650886535645,
+    "source_start": 69.45
+  },
+  {
+    "start": 50.3833,
+    "end": 50.7233,
+    "text": "treffen",
+    "probability": 0.9974282383918762,
+    "source_start": 69.75
+  },
+  {
+    "start": 50.7233,
+    "end": 50.9433,
+    "text": "wir",
+    "probability": 0.9990015625953674,
+    "source_start": 70.09
+  },
+  {
+    "start": 50.9433,
+    "end": 51.2433,
+    "text": "uns",
+    "probability": 0.9993959665298462,
+    "source_start": 70.31
+  },
+  {
+    "start": 51.2433,
+    "end": 51.7233,
+    "text": "ein",
+    "probability": 0.9945072531700134,
+    "source_start": 70.61
+  },
+  {
+    "start": 51.7233,
+    "end": 52.1233,
+    "text": "anderes",
+    "probability": 0.9552357196807861,
+    "source_start": 71.09
+  },
+  {
+    "start": 52.1233,
+    "end": 52.5633,
+    "text": "Mal.",
+    "probability": 0.9112704396247864,
+    "source_start": 71.49
+  },
+  {
+    "start": 53.0367,
+    "end": 53.2367,
+    "text": "Und,",
+    "probability": 0.9377220273017883,
+    "source_start": 72.77
+  },
+  {
+    "start": 54.0167,
+    "end": 54.4367,
+    "text": "sag",
+    "probability": 0.7617282867431641,
+    "source_start": 73.75
+  },
+  {
+    "start": 54.4367,
+    "end": 54.6367,
+    "text": "noch",
+    "probability": 0.9811928272247314,
+    "source_start": 74.17
+  },
+  {
+    "start": 54.6367,
+    "end": 55.1167,
+    "text": "dazu,",
+    "probability": 0.9971405267715454,
+    "source_start": 74.37
+  },
+  {
+    "start": 55.3967,
+    "end": 55.6367,
+    "text": "sag",
+    "probability": 0.9722894430160522,
+    "source_start": 76.23
+  },
+  {
+    "start": 55.6367,
+    "end": 56.0167,
+    "text": "einfach",
+    "probability": 0.9950742125511169,
+    "source_start": 76.47
+  },
+  {
+    "start": 56.0167,
+    "end": 56.7767,
+    "text": "Bescheid,",
+    "probability": 0.9962925314903259,
+    "source_start": 76.85
+  },
+  {
+    "start": 56.9567,
+    "end": 57.3367,
+    "text": "wann",
+    "probability": 0.9935477375984192,
+    "source_start": 77.79
+  },
+  {
+    "start": 57.3367,
+    "end": 57.5567,
+    "text": "du",
+    "probability": 0.9188117384910583,
+    "source_start": 78.17
+  },
+  {
+    "start": 57.5567,
+    "end": 58.0967,
+    "text": "Zeit",
+    "probability": 0.9967201352119446,
+    "source_start": 78.39
+  },
+  {
+    "start": 58.0967,
+    "end": 58.4967,
+    "text": "hast.",
+    "probability": 0.9973636269569397,
+    "source_start": 78.93
+  },
+  {
+    "start": 58.8233,
+    "end": 59.5433,
+    "text": "Merkst",
+    "probability": 0.9766934315363566,
+    "source_start": 80.69
+  },
+  {
+    "start": 59.5433,
+    "end": 59.6233,
+    "text": "du",
+    "probability": 0.9812947511672974,
+    "source_start": 81.41
+  },
+  {
+    "start": 59.6233,
+    "end": 59.7633,
+    "text": "den",
+    "probability": 0.9943970441818237,
+    "source_start": 81.49
+  },
+  {
+    "start": 59.7633,
+    "end": 60.2033,
+    "text": "Unterschied?",
+    "probability": 0.9969973564147949,
+    "source_start": 81.63
+  },
+  {
+    "start": 60.2033,
+    "end": 60.8233,
+    "text": "Du",
+    "probability": 0.6284031867980957,
+    "source_start": 82.07
+  },
+  {
+    "start": 60.8233,
+    "end": 61.0633,
+    "text": "bist",
+    "probability": 0.993861198425293,
+    "source_start": 82.69
+  },
+  {
+    "start": 61.0633,
+    "end": 62.0433,
+    "text": "persönlicher,",
+    "probability": 0.9117567837238312,
+    "source_start": 82.93
+  },
+  {
+    "start": 62.2433,
+    "end": 62.4433,
+    "text": "bist",
+    "probability": 0.998680055141449,
+    "source_start": 84.11
+  },
+  {
+    "start": 62.4433,
+    "end": 62.6433,
+    "text": "ein",
+    "probability": 0.9906808733940125,
+    "source_start": 84.31
+  },
+  {
+    "start": 62.6433,
+    "end": 63.0233,
+    "text": "bisschen",
+    "probability": 0.9908039569854736,
+    "source_start": 84.51
+  },
+  {
+    "start": 63.0233,
+    "end": 64.6433,
+    "text": "emotionaler",
+    "probability": 0.9614862203598022,
+    "source_start": 84.89
+  },
+  {
+    "start": 64.6433,
+    "end": 64.9233,
+    "text": "und",
+    "probability": 0.9257922172546387,
+    "source_start": 86.51
+  },
+  {
+    "start": 64.9233,
+    "end": 65.3433,
+    "text": "dadurch",
+    "probability": 0.9928049445152283,
+    "source_start": 86.79
+  },
+  {
+    "start": 65.3433,
+    "end": 65.6833,
+    "text": "auch",
+    "probability": 0.993862509727478,
+    "source_start": 87.21
+  },
+  {
+    "start": 65.6833,
+    "end": 67.0033,
+    "text": "natürlicher.",
+    "probability": 0.9793868362903595,
+    "source_start": 87.55
+  },
+  {
+    "start": 67.5033,
+    "end": 67.7433,
+    "text": "Ich",
+    "probability": 0.992768406867981,
+    "source_start": 89.37
+  },
+  {
+    "start": 67.7433,
+    "end": 67.9633,
+    "text": "denke,",
+    "probability": 0.9990467429161072,
+    "source_start": 89.61
+  },
+  {
+    "start": 68.4033,
+    "end": 68.5233,
+    "text": "in",
+    "probability": 0.9967509508132935,
+    "source_start": 90.27
+  },
+  {
+    "start": 68.5233,
+    "end": 68.7633,
+    "text": "deiner",
+    "probability": 0.9418890178203583,
+    "source_start": 90.39
+  },
+  {
+    "start": 68.7633,
+    "end": 69.7833,
+    "text": "Muttersprache",
+    "probability": 0.9760783165693283,
+    "source_start": 90.63
+  },
+  {
+    "start": 69.7833,
+    "end": 70.4833,
+    "text": "wirst",
+    "probability": 0.9831412434577942,
+    "source_start": 91.65
+  },
+  {
+    "start": 70.4833,
+    "end": 70.7033,
+    "text": "du",
+    "probability": 0.9719417691230774,
+    "source_start": 92.35
+  },
+  {
+    "start": 70.7033,
+    "end": 70.9833,
+    "text": "auch",
+    "probability": 0.9949458241462708,
+    "source_start": 92.57
+  },
+  {
+    "start": 70.9833,
+    "end": 71.4833,
+    "text": "deine",
+    "probability": 0.9881100654602051,
+    "source_start": 92.85
+  },
+  {
+    "start": 71.4833,
+    "end": 72.0433,
+    "text": "Emotion",
+    "probability": 0.7139454931020737,
+    "source_start": 93.35
+  },
+  {
+    "start": 72.0433,
+    "end": 72.9633,
+    "text": "ausdrücken,",
+    "probability": 0.9952993790308634,
+    "source_start": 93.91
+  },
+  {
+    "start": 73.2833,
+    "end": 73.4233,
+    "text": "wenn",
+    "probability": 0.9975394010543823,
+    "source_start": 95.15
+  },
+  {
+    "start": 73.4233,
+    "end": 73.5833,
+    "text": "du",
+    "probability": 0.9959390163421631,
+    "source_start": 95.29
+  },
+  {
+    "start": 73.5833,
+    "end": 73.7233,
+    "text": "ein",
+    "probability": 0.9777814745903015,
+    "source_start": 95.45
+  },
+  {
+    "start": 73.7233,
+    "end": 74.0233,
+    "text": "bisschen",
+    "probability": 0.991895854473114,
+    "source_start": 95.59
+  },
+  {
+    "start": 74.0233,
+    "end": 75.1433,
+    "text": "enttäuscht",
+    "probability": 0.9980462044477463,
+    "source_start": 95.89
+  },
+  {
+    "start": 75.1433,
+    "end": 75.4033,
+    "text": "bist.",
+    "probability": 0.9973940849304199,
+    "source_start": 97.01
+  },
+  {
+    "start": 75.8367,
+    "end": 76.1367,
+    "text": "Schade,",
+    "probability": 0.8974893093109131,
+    "source_start": 98.07
+  },
+  {
+    "start": 76.7167,
+    "end": 76.8567,
+    "text": "ich",
+    "probability": 0.9970904588699341,
+    "source_start": 98.95
+  },
+  {
+    "start": 76.8567,
+    "end": 77.0367,
+    "text": "hatte",
+    "probability": 0.9869345426559448,
+    "source_start": 99.09
+  },
+  {
+    "start": 77.0367,
+    "end": 77.2567,
+    "text": "mich",
+    "probability": 0.999541163444519,
+    "source_start": 99.27
+  },
+  {
+    "start": 77.2567,
+    "end": 77.4967,
+    "text": "schon",
+    "probability": 0.9975899457931519,
+    "source_start": 99.49
+  },
+  {
+    "start": 77.4967,
+    "end": 77.7767,
+    "text": "darauf",
+    "probability": 0.9953199028968811,
+    "source_start": 99.73
+  },
+  {
+    "start": 77.7767,
+    "end": 78.4767,
+    "text": "gefreut.",
+    "probability": 0.9914522965749105,
+    "source_start": 100.01
+  },
+  {
+    "start": 79.1967,
+    "end": 79.6367,
+    "text": "Aber",
+    "probability": 0.9785431623458862,
+    "source_start": 101.43
+  },
+  {
+    "start": 79.6367,
+    "end": 80.0567,
+    "text": "okay,",
+    "probability": 0.6296986937522888,
+    "source_start": 101.87
+  },
+  {
+    "start": 80.4367,
+    "end": 80.5767,
+    "text": "ich",
+    "probability": 0.9941785335540771,
+    "source_start": 102.67
+  },
+  {
+    "start": 80.5767,
+    "end": 81.0767,
+    "text": "verstehe,",
+    "probability": 0.9853729009628296,
+    "source_start": 102.81
+  },
+  {
+    "start": 81.4567,
+    "end": 81.6967,
+    "text": "kein",
+    "probability": 0.9976790547370911,
+    "source_start": 103.69
+  },
+  {
+    "start": 81.6967,
+    "end": 82.0967,
+    "text": "Problem.",
+    "probability": 0.9951540231704712,
+    "source_start": 103.93
+  },
+  {
+    "start": 82.5033,
+    "end": 82.7433,
+    "text": "Dann",
+    "probability": 0.9953113198280334,
+    "source_start": 105.07
+  },
+  {
+    "start": 82.7433,
+    "end": 83.0433,
+    "text": "treffen",
+    "probability": 0.9940663576126099,
+    "source_start": 105.31
+  },
+  {
+    "start": 83.0433,
+    "end": 83.3233,
+    "text": "wir",
+    "probability": 0.9990140199661255,
+    "source_start": 105.61
+  },
+  {
+    "start": 83.3233,
+    "end": 83.5833,
+    "text": "uns",
+    "probability": 0.9997164607048035,
+    "source_start": 105.89
+  },
+  {
+    "start": 83.5833,
+    "end": 83.8633,
+    "text": "ein",
+    "probability": 0.9962211847305298,
+    "source_start": 106.15
+  },
+  {
+    "start": 83.8633,
+    "end": 84.2033,
+    "text": "anderes",
+    "probability": 0.9594704508781433,
+    "source_start": 106.43
+  },
+  {
+    "start": 84.2033,
+    "end": 84.6433,
+    "text": "Mal.",
+    "probability": 0.9423139691352844,
+    "source_start": 106.77
+  },
+  {
+    "start": 84.6433,
+    "end": 85.6433,
+    "text": "Sag",
+    "probability": 0.5398986339569092,
+    "source_start": 107.21
+  },
+  {
+    "start": 85.6433,
+    "end": 86.1433,
+    "text": "einfach",
+    "probability": 0.9722017645835876,
+    "source_start": 108.21
+  },
+  {
+    "start": 86.1433,
+    "end": 87.0233,
+    "text": "Bescheid,",
+    "probability": 0.9937215447425842,
+    "source_start": 108.71
+  },
+  {
+    "start": 87.2433,
+    "end": 87.7433,
+    "text": "wann",
+    "probability": 0.9837755560874939,
+    "source_start": 109.81
+  },
+  {
+    "start": 87.7433,
+    "end": 87.9833,
+    "text": "du",
+    "probability": 0.8533352613449097,
+    "source_start": 110.31
+  },
+  {
+    "start": 87.9833,
+    "end": 88.6833,
+    "text": "Zeit",
+    "probability": 0.9496757984161377,
+    "source_start": 110.55
+  },
+  {
+    "start": 88.6833,
+    "end": 89.1033,
+    "text": "hast.",
+    "probability": 0.9961178302764893,
+    "source_start": 111.25
+  },
+  {
+    "start": 89.4233,
+    "end": 89.7033,
+    "text": "Ich",
+    "probability": 0.9713318943977356,
+    "source_start": 112.59
+  },
+  {
+    "start": 89.7033,
+    "end": 89.9233,
+    "text": "denke,",
+    "probability": 0.9987213015556335,
+    "source_start": 112.87
+  },
+  {
+    "start": 90.5833,
+    "end": 90.6833,
+    "text": "das",
+    "probability": 0.9640178084373474,
+    "source_start": 113.75
+  },
+  {
+    "start": 90.6833,
+    "end": 90.8633,
+    "text": "ist",
+    "probability": 0.9970312118530273,
+    "source_start": 113.85
+  },
+  {
+    "start": 90.8633,
+    "end": 91.1633,
+    "text": "ein",
+    "probability": 0.9977516531944275,
+    "source_start": 114.03
+  },
+  {
+    "start": 91.1633,
+    "end": 91.9833,
+    "text": "guter",
+    "probability": 0.9981902837753296,
+    "source_start": 114.33
+  },
+  {
+    "start": 91.9833,
+    "end": 92.2833,
+    "text": "Weg.",
+    "probability": 0.99907386302948,
+    "source_start": 115.15
+  },
+  {
+    "text": "Versuch,",
+    "start": 92.5733,
+    "end": 92.9733,
+    "probability": 0.7,
+    "source_start": 120.94
+  },
+  {
+    "start": 93.4933,
+    "end": 93.5733,
+    "text": "das",
+    "probability": 0.9399701952934265,
+    "source_start": 121.86
+  },
+  {
+    "start": 93.5733,
+    "end": 94.0933,
+    "text": "Deutsch,",
+    "probability": 0.9853100776672363,
+    "source_start": 121.94
+  },
+  {
+    "start": 94.2133,
+    "end": 94.3133,
+    "text": "das",
+    "probability": 0.9717867374420166,
+    "source_start": 122.58
+  },
+  {
+    "start": 94.3133,
+    "end": 94.4733,
+    "text": "du",
+    "probability": 0.9760010242462158,
+    "source_start": 122.68
+  },
+  {
+    "start": 94.4733,
+    "end": 94.8533,
+    "text": "gelernt",
+    "probability": 0.9963247179985046,
+    "source_start": 122.84
+  },
+  {
+    "start": 94.8533,
+    "end": 95.3333,
+    "text": "hast,",
+    "probability": 0.9984471201896667,
+    "source_start": 123.22
+  },
+  {
+    "start": 95.7733,
+    "end": 95.9933,
+    "text": "so",
+    "probability": 0.9913732409477234,
+    "source_start": 124.14
+  },
+  {
+    "start": 95.9933,
+    "end": 96.2133,
+    "text": "zu",
+    "probability": 0.9962623715400696,
+    "source_start": 124.36
+  },
+  {
+    "start": 96.2133,
+    "end": 96.7533,
+    "text": "benutzen,",
+    "probability": 0.9981277883052826,
+    "source_start": 124.58
+  },
+  {
+    "start": 97.0733,
+    "end": 97.2933,
+    "text": "dass",
+    "probability": 0.668222963809967,
+    "source_start": 125.44
+  },
+  {
+    "start": 97.2933,
+    "end": 97.4133,
+    "text": "es",
+    "probability": 0.9889732003211975,
+    "source_start": 125.66
+  },
+  {
+    "start": 97.4133,
+    "end": 97.7933,
+    "text": "wirklich",
+    "probability": 0.9825795888900757,
+    "source_start": 125.78
+  },
+  {
+    "start": 97.7933,
+    "end": 98.8133,
+    "text": "deine",
+    "probability": 0.8889315724372864,
+    "source_start": 126.16
+  },
+  {
+    "start": 98.8133,
+    "end": 99.7733,
+    "text": "Emotionen",
+    "probability": 0.9411301215489706,
+    "source_start": 127.18
+  },
+  {
+    "start": 99.7733,
+    "end": 100.4533,
+    "text": "ausdrückt,",
+    "probability": 0.9924971659978231,
+    "source_start": 128.14
+  },
+  {
+    "start": 100.7333,
+    "end": 100.8933,
+    "text": "dass",
+    "probability": 0.9045764803886414,
+    "source_start": 129.1
+  },
+  {
+    "start": 100.8933,
+    "end": 101.0333,
+    "text": "es",
+    "probability": 0.9921578168869019,
+    "source_start": 129.26
+  },
+  {
+    "start": 101.0333,
+    "end": 101.4933,
+    "text": "dein",
+    "probability": 0.9892464280128479,
+    "source_start": 129.4
+  },
+  {
+    "start": 101.4933,
+    "end": 102.3333,
+    "text": "Deutsch",
+    "probability": 0.9941614270210266,
+    "source_start": 129.86
+  },
+  {
+    "start": 102.3333,
+    "end": 102.6133,
+    "text": "wird.",
+    "probability": 0.9882510304450989,
+    "source_start": 130.7
+  },
+  {
+    "start": 102.8933,
+    "end": 103.1733,
+    "text": "Mach",
+    "probability": 0.9607759714126587,
+    "source_start": 131.26
+  },
+  {
+    "start": 103.1733,
+    "end": 103.4533,
+    "text": "das",
+    "probability": 0.986812174320221,
+    "source_start": 131.54
+  },
+  {
+    "start": 103.4533,
+    "end": 103.9133,
+    "text": "Deutsch",
+    "probability": 0.9920885562896729,
+    "source_start": 131.82
+  },
+  {
+    "start": 103.9133,
+    "end": 104.5133,
+    "text": "zu",
+    "probability": 0.9916907548904419,
+    "source_start": 132.28
+  },
+  {
+    "start": 104.5133,
+    "end": 104.8933,
+    "text": "deinem",
+    "probability": 0.9974446892738342,
+    "source_start": 132.88
+  },
+  {
+    "start": 104.8933,
+    "end": 105.2733,
+    "text": "Deutsch.",
+    "probability": 0.9929962754249573,
+    "source_start": 133.26
+  },
+  {
+    "text": "Für",
+    "start": 105.4867,
+    "end": 105.8667,
+    "probability": 0.6797954440116882,
+    "source_start": 138.72
+  },
+  {
+    "text": "intensives",
+    "start": 105.8667,
+    "end": 106.6267,
+    "probability": 0.8560033440589905,
+    "source_start": 139.1
+  },
+  {
+    "text": "Sprechtraining",
+    "start": 106.6267,
+    "end": 107.5867,
+    "probability": 0.7265765741467476,
+    "source_start": 139.86
+  },
+  {
+    "text": "schau",
+    "start": 107.5867,
+    "end": 108.2067,
+    "probability": 0.8396243453025818,
+    "source_start": 140.82
+  },
+  {
+    "text": "dir",
+    "start": 108.2067,
+    "end": 108.3667,
+    "probability": 0.9819326996803284,
+    "source_start": 141.44
+  },
+  {
+    "text": "gerne",
+    "start": 108.3667,
+    "end": 108.7067,
+    "probability": 0.9897097945213318,
+    "source_start": 141.6
+  },
+  {
+    "text": "einmal",
+    "start": 108.7067,
+    "end": 109.1867,
+    "probability": 0.9800788760185242,
+    "source_start": 141.94
+  },
+  {
+    "text": "unsere",
+    "start": 109.1867,
+    "end": 109.8467,
+    "probability": 0.9626655578613281,
+    "source_start": 142.42
+  },
+  {
+    "text": "30",
+    "start": 109.8467,
+    "end": 110.6267,
+    "probability": 0.9311092495918274,
+    "source_start": 143.08
+  },
+  {
+    "text": "-Tage",
+    "start": 110.6267,
+    "end": 111.2067,
+    "probability": 0.7002835770448049,
+    "source_start": 143.86
+  },
+  {
+    "text": "-Sprech",
+    "start": 111.2067,
+    "end": 111.7667,
+    "probability": 0.6396262943744659,
+    "source_start": 144.44
+  },
+  {
+    "text": "-Challenge",
+    "start": 111.7667,
+    "end": 112.3267,
+    "probability": 0.9359021782875061,
+    "source_start": 145.0
+  },
+  {
+    "text": "an.",
+    "start": 112.3267,
+    "end": 112.5667,
+    "probability": 0.9921466708183289,
+    "source_start": 145.56
+  },
+  {
+    "text": "Die",
+    "start": 112.8733,
+    "end": 112.9733,
+    "probability": 0.420777827501297,
+    "source_start": 146.84
+  },
+  {
+    "text": "findest",
+    "start": 112.9733,
+    "end": 113.3133,
+    "probability": 0.9924448430538177,
+    "source_start": 146.94
+  },
+  {
+    "text": "du",
+    "start": 113.3133,
+    "end": 113.5133,
+    "probability": 0.988066554069519,
+    "source_start": 147.28
+  },
+  {
+    "text": "über",
+    "start": 113.5133,
+    "end": 113.9333,
+    "probability": 0.9222201108932495,
+    "source_start": 147.48
+  },
+  {
+    "text": "den",
+    "start": 113.9333,
+    "end": 114.1133,
+    "probability": 0.9890021085739136,
+    "source_start": 147.9
+  },
+  {
+    "text": "Link",
+    "start": 114.1133,
+    "end": 114.4533,
+    "probability": 0.9964338541030884,
+    "source_start": 148.08
+  },
+  {
+    "text": "in",
+    "start": 114.4533,
+    "end": 115.0733,
+    "probability": 0.9934509992599487,
+    "source_start": 148.42
+  },
+  {
+    "text": "der",
+    "start": 115.0733,
+    "end": 115.1933,
+    "probability": 0.9944767355918884,
+    "source_start": 149.04
+  },
+  {
+    "text": "Videobeschreibung.",
+    "start": 115.1933,
+    "end": 116.0133,
+    "probability": 0.989517080783844,
+    "source_start": 149.16
+  },
+  {
+    "start": 116.2267,
+    "end": 116.6267,
+    "text": "Und",
+    "probability": 0.9501996040344238,
+    "source_start": 150.96
+  },
+  {
+    "start": 116.6267,
+    "end": 116.7867,
+    "text": "wenn",
+    "probability": 0.9780541658401489,
+    "source_start": 151.36
+  },
+  {
+    "start": 116.7867,
+    "end": 116.9267,
+    "text": "du",
+    "probability": 0.995075523853302,
+    "source_start": 151.52
+  },
+  {
+    "start": 116.9267,
+    "end": 117.0667,
+    "text": "nicht",
+    "probability": 0.9970749616622925,
+    "source_start": 151.66
+  },
+  {
+    "start": 117.0667,
+    "end": 117.4467,
+    "text": "genau",
+    "probability": 0.9992610812187195,
+    "source_start": 151.8
+  },
+  {
+    "start": 117.4467,
+    "end": 117.9467,
+    "text": "weißt,",
+    "probability": 0.9570504724979401,
+    "source_start": 152.18
+  },
+  {
+    "start": 118.2467,
+    "end": 118.3667,
+    "text": "auf",
+    "probability": 0.9962115287780762,
+    "source_start": 152.98
+  },
+  {
+    "start": 118.3667,
+    "end": 118.7267,
+    "text": "welcher",
+    "probability": 0.9961092174053192,
+    "source_start": 153.1
+  },
+  {
+    "start": 118.7267,
+    "end": 119.2467,
+    "text": "Stufe",
+    "probability": 0.9905554056167603,
+    "source_start": 153.46
+  },
+  {
+    "start": 119.2467,
+    "end": 119.3867,
+    "text": "du",
+    "probability": 0.9953049421310425,
+    "source_start": 153.98
+  },
+  {
+    "start": 119.3867,
+    "end": 119.8667,
+    "text": "aktuell",
+    "probability": 0.9953221678733826,
+    "source_start": 154.12
+  },
+  {
+    "start": 119.8667,
+    "end": 120.3267,
+    "text": "bist",
+    "probability": 0.9971845746040344,
+    "source_start": 154.6
+  },
+  {
+    "start": 120.3267,
+    "end": 120.7867,
+    "text": "und",
+    "probability": 0.9148712158203125,
+    "source_start": 155.06
+  },
+  {
+    "start": 120.7867,
+    "end": 121.0467,
+    "text": "wie",
+    "probability": 0.9920712113380432,
+    "source_start": 155.52
+  },
+  {
+    "start": 121.0467,
+    "end": 121.2267,
+    "text": "du",
+    "probability": 0.9979671835899353,
+    "source_start": 155.78
+  },
+  {
+    "start": 121.2267,
+    "end": 121.3867,
+    "text": "am",
+    "probability": 0.9984007477760315,
+    "source_start": 155.96
+  },
+  {
+    "start": 121.3867,
+    "end": 121.7667,
+    "text": "besten",
+    "probability": 0.9798429608345032,
+    "source_start": 156.12
+  },
+  {
+    "start": 121.7667,
+    "end": 122.5467,
+    "text": "weiter",
+    "probability": 0.9806233644485474,
+    "source_start": 156.5
+  },
+  {
+    "start": 122.5467,
+    "end": 122.9867,
+    "text": "lernen",
+    "probability": 0.8818426728248596,
+    "source_start": 157.28
+  },
+  {
+    "start": 122.9867,
+    "end": 123.3467,
+    "text": "sollst,",
+    "probability": 0.9795496463775635,
+    "source_start": 157.72
+  },
+  {
+    "start": 123.9667,
+    "end": 124.0867,
+    "text": "dann",
+    "probability": 0.9967241883277893,
+    "source_start": 158.7
+  },
+  {
+    "start": 124.0867,
+    "end": 124.3067,
+    "text": "mach",
+    "probability": 0.906929075717926,
+    "source_start": 158.82
+  },
+  {
+    "start": 124.3067,
+    "end": 124.6067,
+    "text": "doch",
+    "probability": 0.9602502584457397,
+    "source_start": 159.04
+  },
+  {
+    "start": 124.6067,
+    "end": 125.1067,
+    "text": "unseren",
+    "probability": 0.9971946477890015,
+    "source_start": 159.34
+  },
+  {
+    "start": 125.1067,
+    "end": 126.0867,
+    "text": "kostenlosen",
+    "probability": 0.9950812458992004,
+    "source_start": 159.84
+  },
+  {
+    "start": 126.0867,
+    "end": 127.3067,
+    "text": "Kurzcheck.",
+    "probability": 0.7283356189727783,
+    "source_start": 160.82
+  },
+  {
+    "start": 127.6267,
+    "end": 127.7667,
+    "text": "Das",
+    "probability": 0.9651557803153992,
+    "source_start": 162.36
+  },
+  {
+    "start": 127.7667,
+    "end": 127.9467,
+    "text": "sind",
+    "probability": 0.9986988306045532,
+    "source_start": 162.5
+  },
+  {
+    "start": 127.9467,
+    "end": 128.1667,
+    "text": "nur",
+    "probability": 0.9954842329025269,
+    "source_start": 162.68
+  },
+  {
+    "start": 128.1667,
+    "end": 128.3867,
+    "text": "acht",
+    "probability": 0.6873617172241211,
+    "source_start": 162.9
+  },
+  {
+    "start": 128.3867,
+    "end": 128.8667,
+    "text": "Fragen,",
+    "probability": 0.9969488978385925,
+    "source_start": 163.12
+  },
+  {
+    "start": 129.2267,
+    "end": 129.3867,
+    "text": "ein",
+    "probability": 0.9954892992973328,
+    "source_start": 163.96
+  },
+  {
+    "start": 129.3867,
+    "end": 129.6467,
+    "text": "paar",
+    "probability": 0.9974356293678284,
+    "source_start": 164.12
+  },
+  {
+    "start": 129.6467,
+    "end": 130.0067,
+    "text": "Minuten",
+    "probability": 0.9973325729370117,
+    "source_start": 164.38
+  },
+  {
+    "start": 130.0067,
+    "end": 130.6467,
+    "text": "und",
+    "probability": 0.3739652633666992,
+    "source_start": 164.74
+  },
+  {
+    "start": 130.6467,
+    "end": 130.8467,
+    "text": "ich",
+    "probability": 0.9930136799812317,
+    "source_start": 165.38
+  },
+  {
+    "start": 130.8467,
+    "end": 131.1267,
+    "text": "gebe",
+    "probability": 0.9879343509674072,
+    "source_start": 165.58
+  },
+  {
+    "start": 131.1267,
+    "end": 131.2667,
+    "text": "dir",
+    "probability": 0.9549217224121094,
+    "source_start": 165.86
+  },
+  {
+    "start": 131.2667,
+    "end": 131.8067,
+    "text": "persönlich",
+    "probability": 0.9949499368667603,
+    "source_start": 166.0
+  },
+  {
+    "start": 131.8067,
+    "end": 132.4067,
+    "text": "mein",
+    "probability": 0.8477224707603455,
+    "source_start": 166.54
+  },
+  {
+    "start": 132.4067,
+    "end": 132.9667,
+    "text": "Feedback.",
+    "probability": 0.9939397871494293,
+    "source_start": 167.14
+  },
+  {
+    "start": 133.3867,
+    "end": 133.5267,
+    "text": "Auch",
+    "probability": 0.9822232723236084,
+    "source_start": 168.12
+  },
+  {
+    "start": 133.5267,
+    "end": 133.8867,
+    "text": "diesen",
+    "probability": 0.9808236360549927,
+    "source_start": 168.26
+  },
+  {
+    "start": 133.8867,
+    "end": 134.2667,
+    "text": "Link",
+    "probability": 0.9773458242416382,
+    "source_start": 168.62
+  },
+  {
+    "start": 134.2667,
+    "end": 134.8867,
+    "text": "findest",
+    "probability": 0.9899797737598419,
+    "source_start": 169.0
+  },
+  {
+    "start": 134.8867,
+    "end": 135.1067,
+    "text": "du",
+    "probability": 0.9773358106613159,
+    "source_start": 169.62
+  },
+  {
+    "start": 135.1067,
+    "end": 135.7067,
+    "text": "in",
+    "probability": 0.9973590970039368,
+    "source_start": 169.84
+  },
+  {
+    "start": 135.7067,
+    "end": 135.8867,
+    "text": "der",
+    "probability": 0.9976449608802795,
+    "source_start": 170.44
+  },
+  {
+    "start": 135.8867,
+    "end": 136.1667,
+    "text": "Videobeschreibung.",
+    "probability": 0.9897338032722474,
+    "source_start": 170.62
+  },
+  {
+    "start": 136.48,
+    "end": 136.62,
+    "text": "Ich",
+    "probability": 0.9901074171066284,
+    "source_start": 171.88
+  },
+  {
+    "start": 136.62,
+    "end": 136.84,
+    "text": "freue",
+    "probability": 0.9161618947982788,
+    "source_start": 172.02
+  },
+  {
+    "start": 136.84,
+    "end": 137.02,
+    "text": "mich",
+    "probability": 0.9997896552085876,
+    "source_start": 172.24
+  },
+  {
+    "start": 137.02,
+    "end": 137.28,
+    "text": "schon,",
+    "probability": 0.9850485920906067,
+    "source_start": 172.42
+  },
+  {
+    "start": 137.68,
+    "end": 137.78,
+    "text": "von",
+    "probability": 0.9955146908760071,
+    "source_start": 173.08
+  },
+  {
+    "start": 137.78,
+    "end": 137.94,
+    "text": "dir",
+    "probability": 0.9841099977493286,
+    "source_start": 173.18
+  },
+  {
+    "start": 137.94,
+    "end": 138.16,
+    "text": "zu",
+    "probability": 0.9991089701652527,
+    "source_start": 173.34
+  },
+  {
+    "start": 138.16,
+    "end": 138.56,
+    "text": "lesen.",
+    "probability": 0.993050217628479,
+    "source_start": 173.56
+  }
+]
